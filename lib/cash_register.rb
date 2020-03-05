@@ -17,7 +17,7 @@ class CashRegister
   else
     self.total = self.total + price
     @items << title
-    @price_items = << price
+    @price_items << price
   end
 end
 
