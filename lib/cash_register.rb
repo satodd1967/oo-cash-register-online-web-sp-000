@@ -34,6 +34,6 @@ end
     self.total - price_items.last
 end
 
-binding pry  
+#binding pry  
 end
 
