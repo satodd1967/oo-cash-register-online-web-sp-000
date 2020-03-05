@@ -31,7 +31,7 @@ end
 end
 
   def void_last_transaction
-    self.total - price_items.pop
+    self.total - price_items.last
 end
 
 binding pry  
