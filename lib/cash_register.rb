@@ -34,6 +34,9 @@ end
     self.total.pop
 end
 
+cash_register = CashRegister.new
+
+
 binding pry  
 end
 
